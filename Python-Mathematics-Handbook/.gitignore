@@ -1,0 +1,6 @@
+*ipynb_checkpoints*
+*tex
+*pdf
+*_files/
+data/goldbach_counts.csv
+.pytest_cache
